@@ -1,0 +1,27 @@
+.filters div.locations {
+	position: absolute;
+	height: 100%;
+	width: 25%;
+	border-right: 1px solid #DDDDDD;
+	line-height: 100%;
+}
+.filters div.amenities {
+	position: absolute;
+	height: 100%;
+	width: 25%;
+	line-height: 100%;
+	left: 25%;
+}
+.filters h3 {
+	font-weight: 600;
+	position: absolute;
+	left: 20px;
+	top: 0;
+}
+.filters h4 {
+	position: absolute;
+	font-weight: 400;
+	font-size: 14px;
+	top: 15px;
+	left: 20px;
+}
